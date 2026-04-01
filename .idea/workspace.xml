@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1317cc33-259a-4f3e-a25d-ef5653e562e8" name="Changes" comment="Move all zeros to end problem solved">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Move_all_Zeros_to_End/Solution.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;arunprasanth2aj24&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/arunprasanth2aj24/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;34fb7880-adda-4b8c-9a29-e4dcf3534630&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3BDbLaE6teJ91u1LijQhIczhpCL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DSA" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1317cc33-259a-4f3e-a25d-ef5653e562e8" name="Changes" comment="" />
+      <created>1774026534966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774026534966</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Armstrong problem solved">
+      <option name="closed" value="true" />
+      <created>1774083226968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774083226968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selection sort solved">
+      <option name="closed" value="true" />
+      <created>1774108056087</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774108056089</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bubble Sort solved">
+      <option name="closed" value="true" />
+      <created>1774109484295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774109484295</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Insertion Sort solved">
+      <option name="closed" value="true" />
+      <created>1774110602698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774110602698</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Largest in Array solved">
+      <option name="closed" value="true" />
+      <created>1774532339303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774532339305</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Second Largest in Array solved">
+      <option name="closed" value="true" />
+      <created>1774534733289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774534733289</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Check if the array is Sorted problem solved">
+      <option name="closed" value="true" />
+      <created>1774535891681</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774535891681</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Remove duplicate elements from array problem solved">
+      <option name="closed" value="true" />
+      <created>1774539174999</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774539174999</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Left rotate array by one problem solved">
+      <option name="closed" value="true" />
+      <created>1774601675732</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774601675732</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Left rotate array by k problem solved with 5 testCases failed">
+      <option name="closed" value="true" />
+      <created>1774602954009</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774602954009</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Move all zeros to end problem solved">
+      <option name="closed" value="true" />
+      <created>1774876952644</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774876952644</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Armstrong problem solved" />
+    <MESSAGE value="Selection sort solved" />
+    <MESSAGE value="Bubble Sort solved" />
+    <MESSAGE value="Insertion Sort solved" />
+    <MESSAGE value="Largest in Array solved" />
+    <MESSAGE value="Second Largest in Array solved" />
+    <MESSAGE value="Check if the array is Sorted problem solved" />
+    <MESSAGE value="Remove duplicate elements from array problem solved" />
+    <MESSAGE value="Left rotate array by one problem solved" />
+    <MESSAGE value="Left rotate array by k problem solved with 5 testCases failed" />
+    <MESSAGE value="Move all zeros to end problem solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move all zeros to end problem solved" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Palindrome Number/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
