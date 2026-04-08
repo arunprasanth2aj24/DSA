@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1317cc33-259a-4f3e-a25d-ef5653e562e8" name="Changes" comment="Move all zeros to end problem solved">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Move_all_Zeros_to_End/Solution.java" beforeDir="false" />
+    <list default="true" id="1317cc33-259a-4f3e-a25d-ef5653e562e8" name="Changes" comment="Single among double problem solved with one testcase failed">
+      <change afterPath="$PROJECT_DIR$/Union_of_Two_Sorted_Arrays/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +171,47 @@
       <option name="project" value="LOCAL" />
       <updated>1774876952644</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Move all zeros to end problem solved">
+      <option name="closed" value="true" />
+      <created>1775052303345</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1775052303345</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Array search problem solved">
+      <option name="closed" value="true" />
+      <created>1775052494831</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1775052494831</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Max Consicutive bit with testCases failed">
+      <option name="closed" value="true" />
+      <created>1775313809775</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1775313809775</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Missing in Array solved">
+      <option name="closed" value="true" />
+      <created>1775317629697</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1775317629697</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Single among double problem solved with one testcase failed">
+      <option name="closed" value="true" />
+      <created>1775661482040</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1775661482040</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +249,11 @@
     <MESSAGE value="Left rotate array by one problem solved" />
     <MESSAGE value="Left rotate array by k problem solved with 5 testCases failed" />
     <MESSAGE value="Move all zeros to end problem solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move all zeros to end problem solved" />
+    <MESSAGE value="Array search problem solved" />
+    <MESSAGE value="Max Consicutive bit with testCases failed" />
+    <MESSAGE value="Missing in Array solved" />
+    <MESSAGE value="Single among double problem solved with one testcase failed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Single among double problem solved with one testcase failed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
