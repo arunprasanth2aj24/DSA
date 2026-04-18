@@ -1,0 +1,23 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+
+        int buy_price = prices[0];
+        int curr_profit = 0;
+        int max_profit = 0;
+
+        for (int i = 0; i < prices.length; i++) {
+
+            if (buy_price > prices[i]) {
+                buy_price = prices[i];
+            }
+            if (buy_price < prices[i]) {
+                curr_profit = prices[i] - buy_price;
+            }
+
+            max_profit = Math.max(max_profit, curr_profit);
+        }
+
+        return max_profit;
+
+    }
+}
